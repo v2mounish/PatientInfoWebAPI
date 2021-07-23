@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/v2mounish/PatientInfoWebAPI/issues"
   },
-  "homepage": "https://github.com/v2mounish/PatientInfoWebAPI#readme"
+  "homepage": "https://github.com/v2mounish/PatientInfoWebAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^7.1.3"
+  }
 }
